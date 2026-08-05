@@ -14,6 +14,9 @@
 - 除錯模式：顯示每一步 HTTP 請求與提取結果，方便排查
 - API 模式：回傳 JSON 或 302 直接跳轉下載
 
+## 展示
+[圖](https://github.com/EustaceSop/LanzouAPI-Enhanced/blob/main/img.png?raw=true)
+
 ## 部署
 
 需要 PHP + cURL 擴展。把 `index.php` 丟到任何 PHP 網站目錄即可，無其他依賴。
