@@ -15,7 +15,8 @@
 - API 模式：回傳 JSON 或 302 直接跳轉下載
 
 ## 展示
-https://github.com/EustaceSop/LanzouAPI-Enhanced/blob/main/img.png?raw=true
+
+![介面截圖](img.png)
 
 ## 部署
 
